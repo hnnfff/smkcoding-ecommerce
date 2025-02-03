@@ -1,6 +1,3 @@
-<script lang="ts" setup>
-</script>
-
 <template>
   <section class="h-full">
     <div class="container">
